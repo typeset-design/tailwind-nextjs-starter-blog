@@ -28,7 +28,7 @@ const MobileNav = () => {
         <svg
           xmlns="http://www.w3.org/2000/svg"
           viewBox="0 0 20 20"
-          fill="currentColor"
+          fill="white"
           className="text-white-900 dark:text-white-100"
         >
           {navShow ? (
